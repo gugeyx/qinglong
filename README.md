@@ -132,7 +132,7 @@ qinglong/
 
 本项目基于GPL-3.0开源协议
 
-## 致谢
+## 致谢 
 
 - [ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) - 终端模拟器基础
 - [青龙面板](https://github.com/whyour/qinglong) - 定时任务管理框架
