@@ -128,7 +128,7 @@ qinglong/
 - Android SDK 34
 - Gradle 8.2
 
-## 许可证
+## 许可证 
 
 本项目基于GPL-3.0开源协议
 
